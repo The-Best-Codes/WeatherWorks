@@ -7,6 +7,7 @@ WeatherWorks is in progress. It is essentially a free Home and Weather Monitor w
 
 
 # Screenshots:
-![progress, thu nov 9 @ 3:00pm, 2023](https://github.com/The-Best-Codes/HomeWorks-Pro/assets/106822363/d24dfaf0-bef0-4273-a667-a9eff1317962)
+![image](https://github.com/The-Best-Codes/WeatherWorks/assets/106822363/d72e2264-610d-49ff-8c14-e3ce31a52d09)
+
 
 
